@@ -1,0 +1,4 @@
+*-matter/*/*-unsigned.bin 
+*-matter/*/sdkconfig.*  
+*-matter/*/*.json  
+*-matter/*/*.env

@@ -1,0 +1,19 @@
+rm switch-matter/*/*-unsigned.bin 
+rm switch-matter/*/sdkconfig.*  
+rm switch-matter/*/*.json  
+rm switch-matter/*/*.env
+
+rm curtain-matter/*/*-unsigned.bin 
+rm curtain-matter/*/sdkconfig.*  
+rm curtain-matter/*/*.json  
+rm curtain-matter/*/*.env
+
+rm occupancy-matter/*/*-unsigned.bin 
+rm occupancy-matter/*/sdkconfig.*  
+rm occupancy-matter/*/*.json  
+rm occupancy-matter/*/*.env
+
+rm light-matter/*/*-unsigned.bin 
+rm light-matter/*/sdkconfig.*  
+rm light-matter/*/*.json  
+rm light-matter/*/*.env
