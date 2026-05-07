@@ -2,3 +2,13 @@
 *-matter/*/sdkconfig.*  
 *-matter/*/*.json  
 *-matter/*/*.env
+
+
+*-unsigned.bin 
+sdkconfig.*  
+*.json  
+*.env
+bootloader.bin
+ota_data_initial.bin
+partition-table.bin
+config.env
